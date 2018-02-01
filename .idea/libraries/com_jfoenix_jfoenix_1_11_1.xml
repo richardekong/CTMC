@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.jfoenix:jfoenix:1.11.1" type="repository">
+    <properties maven-id="com.jfoenix:jfoenix:1.11.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/1.11.1/jfoenix-1.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/1.11.1/jfoenix-1.11.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/1.11.1/jfoenix-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

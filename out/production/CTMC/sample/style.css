@@ -1,0 +1,18 @@
+
+#Dt2dplot .default-color0.chart-series-line,#rpdeDtplot2D .default-color0.chart-series-line{
+    -fx-stroke:red;
+    -fx-stroke-width:1.5;
+
+}
+#Av2dplot .default-color0.chart-series-line, #rpdeAvplot2D .default-color0.chart-series-line {
+    -fx-stroke:blue;
+    -fx-stroke-width:1.5;
+}
+#progressBar.progress-bar, #rpdeProgBar.progress-bar {-fx-accent:green;}
+
+
+.chart-horizontal-grid-lines{ -fx-stroke:green;-fx-stroke-border:solid;}
+.chart-vertical-grid-lines{-fx-stroke:green;-fx-stroke-border:solid;}
+#root,#rpderoot{
+    -fx-padding:10;
+}

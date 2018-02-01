@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:id="drawercontent" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="331.0" prefWidth="194.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.NavigationDrawerController">
+    <children>
+        <ImageView fx:id="sidePaneImage" fitHeight="109.0" fitWidth="194.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@drawerImage.jpg" />
+            </image>
+        </ImageView>
+        <Button fx:id="savebtn" accessibleText="Save" mnemonicParsing="false" prefHeight="57.0" prefWidth="194.0" text="Save">
+         <graphic>
+            <ImageView fitHeight="24.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@saveimg.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+        <Button fx:id="loadbtn" accessibleText="Load" mnemonicParsing="false" prefHeight="55.0" prefWidth="195.0" text="Load">
+         <graphic>
+            <ImageView fitHeight="24.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@loadicon.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+        <Button fx:id="helpbtn" accessibleText="Help" mnemonicParsing="false" prefHeight="55.0" prefWidth="195.0" text="Help">
+         <graphic>
+            <ImageView fitHeight="24.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Help-icon.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+        <Button fx:id="Quitbtn" accessibleText="Quit" mnemonicParsing="false" prefHeight="55.0" prefWidth="194.0" text="Quit">
+         <graphic>
+            <ImageView fitHeight="24.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@exit.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+    </children>
+</VBox>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox id="rpderoot" fx:id="rpderoot" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="675.0" prefWidth="970.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.rpdeController">
+    <children>
+        <HBox id="rpdehbox1" fx:id="rpdeHbox1" prefHeight="258.0" prefWidth="800.0">
+            <children>
+                <TitledPane id="rpderatePane" fx:id="rpderatePane" prefHeight="198.0" prefWidth="580.0" text="Rate" textAlignment="CENTER">
+                    <content>
+                        <VBox id="vboxRate" fx:id="vboxRate" prefHeight="120.0" prefWidth="400.0">
+                            <children>
+                                <HBox id="rpdehbox1a" fx:id="rpdehbox1a" prefHeight="40.0" prefWidth="400.0" spacing="40.0">
+                                    <children>
+                                        <Label id="rpdelambdalabel" fx:id="rpdelambdalabel" text="λ" />
+                                        <Slider id="rpdelambdaslider" fx:id="rpdelambdaslider" blockIncrement="5.0" majorTickUnit="100.0" max="200.0" min="0.0000" minorTickCount="1" prefWidth="220" showTickLabels="true" showTickMarks="true" />
+                                        <TextField id="rpdelambdavalue" fx:id="rpdelambdavalue" prefHeight="10.0" prefWidth="100.0" />
+                                    </children>
+                                </HBox>
+                                <HBox id="rpdeHbox1b" fx:id="rpdeHbox1b" prefHeight="40.0" prefWidth="400.0" spacing="40.0">
+                                    <children>
+                                        <Label id="rpdemulabel" fx:id="rpdemulabel" text="µ" />
+                                        <Slider id="rpdeMuslider" fx:id="rpdeMuslider" blockIncrement="10.0" majorTickUnit="100.0" max="200.0" min="0.0000" minorTickCount="1" prefWidth="220" showTickLabels="true" showTickMarks="true" />
+                                        <TextField id="rpdeMuvalue" fx:id="rpdeMuvalue" prefHeight="10.0" prefWidth="100.0" />
+                                    </children>
+                                </HBox>
+                                <HBox id="rpdeHbox1b" fx:id="rpdeHbox1b1" prefHeight="40.0" prefWidth="400.0" spacing="40.0">
+                                    <children>
+                                        <Label id="rpdemulabel" fx:id="rpdeTlabel" text="t" />
+                                        <Slider id="rpdeTslider" fx:id="rpdeTslider" blockIncrement="10.0" majorTickUnit="100.0" max="200.0" min="0.0000" minorTickCount="1" prefWidth="220" showTickLabels="true" showTickMarks="true" />
+                                        <TextField id="rpdeTvalue" fx:id="rpdeTvalue" prefHeight="10.0" prefWidth="100.0" />
+                                    </children>
+                                </HBox>
+                            </children>
+                        </VBox>
+                    </content>
+                </TitledPane>
+                <TitledPane id="rpdeFinitegraph" fx:id="rpdeFinitegraph" animated="false" prefHeight="198.0" prefWidth="571.0" text="Finite Graph">
+                    <content>
+                        <BorderPane id="rpdeFiniteGraphPane" fx:id="rpdeFiniteGraphPane" prefHeight="200.0" prefWidth="200.0" />
+                    </content>
+                </TitledPane>
+            </children>
+        </HBox>
+        <HBox id="rpdeHbox2" fx:id="rpdeHbox2" prefHeight="400" prefWidth="600.0">
+            <children>
+                <TabPane id="rpdeTabpane" fx:id="rpdeTabpane" prefHeight="340.0" prefWidth="970.0" tabClosingPolicy="UNAVAILABLE">
+                    <tabs>
+                        <Tab id="rpdeAvalilability" fx:id="rpdeAvalilability" text="Availability">
+                            <content>
+                                <HBox id="rpdeHbox2a" fx:id="rpdeHbox2a" prefHeight="264.0" prefWidth="788.0">
+                                    <children>
+                                        <TitledPane id="rpdeAvTablePane" fx:id="rpdeAvTablePane" animated="false" prefHeight="310.0" prefWidth="520.0" text="Availability Level">
+                                            <content>
+                                                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="252.0" prefWidth="484.0">
+                                                    <children>
+                                                        <TableView id="rpdeAvTableView" fx:id="rpdeAvTableView" prefHeight="285.0" prefWidth="487.0">
+                                                            <columns>
+                                                                <TableColumn id="rpdeAvTCol" fx:id="rpdeAvTCol" prefWidth="106.0" text="t" />
+                                                                <TableColumn id="rpdeColAv" fx:id="rpdeColAv" prefWidth="194.0" text="Av" />
+                                                                <TableColumn id="rpdeColP0" fx:id="rpdeColP0" minWidth="0.0" prefWidth="185.0" text="P0" />
+                                                            </columns>
+                                                        </TableView>
+                                                    </children>
+                                                </AnchorPane>
+                                            </content>
+                                        </TitledPane>
+                                        <TitledPane id="rpdeAvPlotTitle" fx:id="rpdeAvPlotTitle" animated="false" prefHeight="310.0" prefWidth="516.0" text="Plots">
+                                            <content>
+                                                <AnchorPane id="plotTitilePane" minHeight="0.0" minWidth="0.0" prefHeight="238.0" prefWidth="0.0">
+                                                    <children>
+                                                        <BorderPane id="rpdeAvPlotPane" fx:id="rpdeAvPlotPane" layoutX="-1.0" prefHeight="238.0" prefWidth="503.0" />
+                                                    </children>
+                                                </AnchorPane>
+                                            </content>
+                                        </TitledPane>
+                                    </children>
+                                </HBox>
+                            </content>
+                        </Tab>
+                        <Tab id="rpdeDowntime" fx:id="rpdeDowntime" text="Downtime">
+                            <content>
+                                <HBox id="rpdeHbox2b" fx:id="rpdeHbox2b" prefHeight="100.0" prefWidth="200.0">
+                                    <children>
+                                        <TitledPane id="rpdeDtTablePane" fx:id="rpdeDtTablePane" animated="false" prefHeight="310.0" prefWidth="581.0" text="Downtime Level">
+                                            <content>
+                                                <TableView id="rpdeDtTableView" fx:id="rpdeDtTableView" prefHeight="183.0" prefWidth="400.0">
+                                                    <columns>
+                                                        <TableColumn id="rpdeDownTCol" fx:id="rpdeDownTCol" prefWidth="123.0" text="t" />
+                                                        <TableColumn id="Dt" fx:id="rpdeColDt" prefWidth="182.0" text="Dt" />
+                                                        <TableColumn id="rpdeColP1" fx:id="rpdeColP1" minWidth="0.0" prefWidth="184.0" text="P1" />
+                                                    </columns>
+                                                </TableView>
+                                            </content>
+                                        </TitledPane>
+                                        <TitledPane id="rpdeDtPlotTitle" fx:id="rpdeDtPlotTitle" animated="false" prefHeight="310.0" prefWidth="573.0" text="Plots">
+                                            <content>
+                                                <BorderPane id="rpdeDtplotPane" fx:id="rpdeDtplotPane" prefHeight="182.0" prefWidth="400.0" />
+                                            </content>
+                                        </TitledPane>
+                                    </children>
+                                </HBox>
+                            </content>
+                        </Tab>
+                    </tabs>
+                </TabPane>
+            </children>
+        </HBox>
+        <HBox id="rpdeHbox4" fx:id="rpdeHbox4" prefHeight="12.0" prefWidth="800.0">
+         <children>
+            <ProgressBar id="rpdeProgBar" fx:id="rpdeProgBar" prefHeight="18.0" prefWidth="969.0" progress="0.0" />
+         </children>
+        </HBox>
+      <HBox id="rpdeHbox3" fx:id="rpdeHbox31" prefHeight="169.0" prefWidth="800.0">
+         <children>
+            <TitledPane id="rpdeControlTitlePane" fx:id="rpdeControlTitlePane1" animated="false" prefHeight="129.0" prefWidth="969.0" text="Controls">
+               <content>
+                  <HBox id="rpdeHbox3a" fx:id="rpdeHbox3a1" prefHeight="100.0" prefWidth="800.0">
+                     <children>
+                        <Button id="rpdeBtn2d" fx:id="rpdeBtn2d1" contentDisplay="TOP" mnemonicParsing="false" onAction="#plotData2D" prefHeight="83.0" prefWidth="323.0" text="Plot 2D">
+                           <graphic>
+                              <ImageView id="rpdeImg2d" fx:id="rpdeImg2d1" fitHeight="50.0" fitWidth="117.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@2dicon2.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                        <Button id="rpdeBtn3d" fx:id="rpdeBtn3d1" contentDisplay="TOP" mnemonicParsing="false" onAction="#plotData3D" prefHeight="83.0" prefWidth="323.0" text="Plot 3D">
+                           <graphic>
+                              <ImageView id="rpdeImg3d" fx:id="rpdeImg3d1" fitHeight="54.0" fitWidth="72.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@3dicon2.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                        <Button id="rpdeClearbtn" fx:id="rpdeClearbtn1" contentDisplay="TOP" mnemonicParsing="false" onAction="#clear" prefHeight="83.0" prefWidth="323.0" text="Clear">
+                           <graphic>
+                              <ImageView id="rpdeImgClear" fx:id="rpdeImgClear1" fitHeight="44.0" fitWidth="54.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@clearicon2.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </HBox>
+               </content>
+            </TitledPane>
+         </children>
+      </HBox>
+    </children>
+</VBox>

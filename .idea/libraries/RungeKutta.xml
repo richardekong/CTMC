@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RungeKutta">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../RungeKutta/out/production/RungeKutta" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

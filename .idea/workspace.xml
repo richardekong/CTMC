@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NavigationDrawer.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/NavigationDrawer.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hwcPoolsController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/hwcPoolsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9707">
+              <caret line="624" column="38" lean-forward="false" selection-start-line="624" selection-start-column="38" selection-end-line="624" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#27756#27757#0" expanded="true" />
+                <element signature="e#27790#27791#0" expanded="true" />
+                <element signature="e#27847#27848#0" expanded="true" />
+                <element signature="e#27893#27894#0" expanded="true" />
+                <element signature="e#27930#27931#0" expanded="true" />
+                <element signature="e#27960#27961#0" expanded="true" />
+                <element signature="e#28009#28010#0" expanded="true" />
+                <element signature="e#28047#28048#0" expanded="true" />
+                <element signature="e#28086#28087#0" expanded="true" />
+                <element signature="e#28118#28119#0" expanded="true" />
+                <element signature="e#28171#28172#0" expanded="true" />
+                <element signature="e#28213#28214#0" expanded="true" />
+                <element signature="e#28286#28287#0" expanded="true" />
+                <element signature="e#28341#28342#0" expanded="true" />
+                <element signature="e#28385#28386#0" expanded="true" />
+                <element signature="e#28424#28425#0" expanded="true" />
+                <element signature="e#28456#28457#0" expanded="true" />
+                <element signature="e#28509#28510#0" expanded="true" />
+                <element signature="e#28551#28552#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hwcpools.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/hwcpools.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rpdeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/rpdeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4828">
+              <caret line="313" column="24" lean-forward="false" selection-start-line="313" selection-start-column="24" selection-end-line="313" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#12575#12576#0" expanded="true" />
+                <element signature="e#12612#12613#0" expanded="true" />
+                <element signature="e#12793#12794#0" expanded="true" />
+                <element signature="e#12833#12834#0" expanded="true" />
+                <element signature="e#12876#12877#0" expanded="true" />
+                <element signature="e#12919#12920#0" expanded="true" />
+                <element signature="e#12962#12963#0" expanded="true" />
+                <element signature="e#13005#13006#0" expanded="true" />
+                <element signature="e#13050#13051#0" expanded="true" />
+                <element signature="e#13088#13089#0" expanded="true" />
+                <element signature="e#13153#13154#0" expanded="true" />
+                <element signature="e#13207#13208#0" expanded="true" />
+                <element signature="e#13248#13249#0" expanded="true" />
+                <element signature="e#13282#13283#0" expanded="true" />
+                <element signature="e#13339#13340#0" expanded="true" />
+                <element signature="e#13385#13386#0" expanded="true" />
+                <element signature="e#13425#13426#0" expanded="true" />
+                <element signature="e#13458#13459#0" expanded="true" />
+                <element signature="e#13513#13514#0" expanded="true" />
+                <element signature="e#13557#13558#0" expanded="true" />
+                <element signature="e#13595#13596#0" expanded="true" />
+                <element signature="e#13628#13629#0" expanded="true" />
+                <element signature="e#13681#13682#0" expanded="true" />
+                <element signature="e#13723#13724#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plot2D.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Plot2D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plot3D.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Plot3D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="137" column="40" lean-forward="false" selection-start-line="137" selection-start-column="40" selection-end-line="137" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CTMCGUI.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/CTMCGUI.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/DataModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7429">
+              <caret line="570" column="111" lean-forward="false" selection-start-line="570" selection-start-column="111" selection-end-line="570" selection-end-column="111" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CTMCAvailabilityTableModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/CTMCAvailabilityTableModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>About</find>
+      <find>Circlecolor</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Help</replace>
+      <replace>CircleColor</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/NavigationDrawerController.java" />
+        <option value="$PROJECT_DIR$/src/sample/TableModel.java" />
+        <option value="$PROJECT_DIR$/src/sample/rpdeSlopes.java" />
+        <option value="$PROJECT_DIR$/src/sample/hwcPoolSlopes.java" />
+        <option value="$PROJECT_DIR$/src/sample/CTMCTableModel.java" />
+        <option value="$PROJECT_DIR$/src/sample/CTMCDownTimeTableModel.java" />
+        <option value="$PROJECT_DIR$/src/sample/CTMCAvailabilityTableModel.java" />
+        <option value="$PROJECT_DIR$/src/sample/rpde.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/CTMCGUI.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/hwcPoolsController.java" />
+        <option value="$PROJECT_DIR$/src/sample/DataModel.java" />
+        <option value="$PROJECT_DIR$/src/sample/hwcpools.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Help.java" />
+        <option value="$PROJECT_DIR$/src/sample/NavigationDrawer.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/CTMCGUIController.java" />
+        <option value="$PROJECT_DIR$/src/sample/rpdeController.java" />
+        <option value="$PROJECT_DIR$/src/sample/Plot3D.java" />
+        <option value="$PROJECT_DIR$/src/sample/Plot2D.java" />
+        <option value="$PROJECT_DIR$/src/sample/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="50" />
+    <option name="width" value="1292" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RungeKutta/out/production/RungeKutta" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Adminstrator\.IdeaIC2017.2\CTMC\src\sample" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Adminstrator\.IdeaIC2017.2\CTMC\src\sample" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CTMC" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33073324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22108346" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39493293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39493293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33084947" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22108346" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/NavigationDrawerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/rpdeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="107" column="32" lean-forward="false" selection-start-line="107" selection-start-column="32" selection-end-line="107" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12575#12576#0" expanded="true" />
+            <element signature="e#12612#12613#0" expanded="true" />
+            <element signature="e#12793#12794#0" expanded="true" />
+            <element signature="e#12833#12834#0" expanded="true" />
+            <element signature="e#12876#12877#0" expanded="true" />
+            <element signature="e#12919#12920#0" expanded="true" />
+            <element signature="e#12962#12963#0" expanded="true" />
+            <element signature="e#13005#13006#0" expanded="true" />
+            <element signature="e#13050#13051#0" expanded="true" />
+            <element signature="e#13088#13089#0" expanded="true" />
+            <element signature="e#13153#13154#0" expanded="true" />
+            <element signature="e#13207#13208#0" expanded="true" />
+            <element signature="e#13248#13249#0" expanded="true" />
+            <element signature="e#13282#13283#0" expanded="true" />
+            <element signature="e#13339#13340#0" expanded="true" />
+            <element signature="e#13385#13386#0" expanded="true" />
+            <element signature="e#13425#13426#0" expanded="true" />
+            <element signature="e#13458#13459#0" expanded="true" />
+            <element signature="e#13513#13514#0" expanded="true" />
+            <element signature="e#13557#13558#0" expanded="true" />
+            <element signature="e#13595#13596#0" expanded="true" />
+            <element signature="e#13628#13629#0" expanded="true" />
+            <element signature="e#13681#13682#0" expanded="true" />
+            <element signature="e#13723#13724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/rpde.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2312">
+          <caret line="136" column="37" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/CTMCAvailabilityTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="120" column="5" lean-forward="false" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/NavigationDrawer.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/hwcPoolsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4709">
+          <caret line="277" column="14" lean-forward="true" selection-start-line="277" selection-start-column="14" selection-end-line="277" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#27756#27757#0" expanded="true" />
+            <element signature="e#27790#27791#0" expanded="true" />
+            <element signature="e#27847#27848#0" expanded="true" />
+            <element signature="e#27893#27894#0" expanded="true" />
+            <element signature="e#27930#27931#0" expanded="true" />
+            <element signature="e#27960#27961#0" expanded="true" />
+            <element signature="e#28009#28010#0" expanded="true" />
+            <element signature="e#28047#28048#0" expanded="true" />
+            <element signature="e#28086#28087#0" expanded="true" />
+            <element signature="e#28118#28119#0" expanded="true" />
+            <element signature="e#28171#28172#0" expanded="true" />
+            <element signature="e#28213#28214#0" expanded="true" />
+            <element signature="e#28286#28287#0" expanded="true" />
+            <element signature="e#28341#28342#0" expanded="true" />
+            <element signature="e#28385#28386#0" expanded="true" />
+            <element signature="e#28424#28425#0" expanded="true" />
+            <element signature="e#28456#28457#0" expanded="true" />
+            <element signature="e#28509#28510#0" expanded="true" />
+            <element signature="e#28551#28552#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_91/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="750" column="0" lean-forward="false" selection-start-line="750" selection-start-column="0" selection-end-line="750" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/NavigationDrawerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="839" column="0" lean-forward="false" selection-start-line="839" selection-start-column="0" selection-end-line="839" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="406" column="0" lean-forward="false" selection-start-line="406" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/scene/control/TextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/scene/control/TextInputControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="347" column="35" lean-forward="false" selection-start-line="347" selection-start-column="35" selection-end-line="347" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/concurrent/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="1463" column="13" lean-forward="true" selection-start-line="1463" selection-start-column="13" selection-end-line="1463" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="356" column="0" lean-forward="false" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="1610" column="0" lean-forward="false" selection-start-line="1610" selection-start-column="0" selection-end-line="1610" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="333" column="0" lean-forward="false" selection-start-line="333" selection-start-column="0" selection-end-line="333" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="34" column="116" lean-forward="false" selection-start-line="34" selection-start-column="116" selection-end-line="34" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/hwcPoolSlopes.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/rpdeSlopes.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="1335" column="0" lean-forward="false" selection-start-line="1335" selection-start-column="0" selection-end-line="1335" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="3180" column="0" lean-forward="false" selection-start-line="3180" selection-start-column="0" selection-end-line="3180" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="518" column="0" lean-forward="false" selection-start-line="518" selection-start-column="0" selection-end-line="518" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="830" column="0" lean-forward="false" selection-start-line="830" selection-start-column="0" selection-end-line="830" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="483" column="0" lean-forward="false" selection-start-line="483" selection-start-column="0" selection-end-line="483" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="201" column="0" lean-forward="false" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43299">
+          <caret line="2547" column="0" lean-forward="false" selection-start-line="2547" selection-start-column="0" selection-end-line="2547" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/rpde.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="79" column="61" lean-forward="false" selection-start-line="79" selection-start-column="61" selection-end-line="79" selection-end-column="61" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/CTMCDownTimeTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/beans/property/ObjectPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/stage/FileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="265" column="0" lean-forward="false" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/scene/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="2494" column="0" lean-forward="false" selection-start-line="2494" selection-start-column="0" selection-end-line="2494" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Help.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/awt/Desktop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="57" column="2" lean-forward="true" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/CTMC Instructions.htm" />
+    <entry file="file://$PROJECT_DIR$/src/sample/CTMCGUIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="240" column="125" lean-forward="false" selection-start-line="240" selection-start-column="125" selection-end-line="240" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/NavigationDrawer.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/hwcPoolsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9707">
+          <caret line="624" column="38" lean-forward="false" selection-start-line="624" selection-start-column="38" selection-end-line="624" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#27756#27757#0" expanded="true" />
+            <element signature="e#27790#27791#0" expanded="true" />
+            <element signature="e#27847#27848#0" expanded="true" />
+            <element signature="e#27893#27894#0" expanded="true" />
+            <element signature="e#27930#27931#0" expanded="true" />
+            <element signature="e#27960#27961#0" expanded="true" />
+            <element signature="e#28009#28010#0" expanded="true" />
+            <element signature="e#28047#28048#0" expanded="true" />
+            <element signature="e#28086#28087#0" expanded="true" />
+            <element signature="e#28118#28119#0" expanded="true" />
+            <element signature="e#28171#28172#0" expanded="true" />
+            <element signature="e#28213#28214#0" expanded="true" />
+            <element signature="e#28286#28287#0" expanded="true" />
+            <element signature="e#28341#28342#0" expanded="true" />
+            <element signature="e#28385#28386#0" expanded="true" />
+            <element signature="e#28424#28425#0" expanded="true" />
+            <element signature="e#28456#28457#0" expanded="true" />
+            <element signature="e#28509#28510#0" expanded="true" />
+            <element signature="e#28551#28552#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/hwcpools.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/rpdeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4828">
+          <caret line="313" column="24" lean-forward="false" selection-start-line="313" selection-start-column="24" selection-end-line="313" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12575#12576#0" expanded="true" />
+            <element signature="e#12612#12613#0" expanded="true" />
+            <element signature="e#12793#12794#0" expanded="true" />
+            <element signature="e#12833#12834#0" expanded="true" />
+            <element signature="e#12876#12877#0" expanded="true" />
+            <element signature="e#12919#12920#0" expanded="true" />
+            <element signature="e#12962#12963#0" expanded="true" />
+            <element signature="e#13005#13006#0" expanded="true" />
+            <element signature="e#13050#13051#0" expanded="true" />
+            <element signature="e#13088#13089#0" expanded="true" />
+            <element signature="e#13153#13154#0" expanded="true" />
+            <element signature="e#13207#13208#0" expanded="true" />
+            <element signature="e#13248#13249#0" expanded="true" />
+            <element signature="e#13282#13283#0" expanded="true" />
+            <element signature="e#13339#13340#0" expanded="true" />
+            <element signature="e#13385#13386#0" expanded="true" />
+            <element signature="e#13425#13426#0" expanded="true" />
+            <element signature="e#13458#13459#0" expanded="true" />
+            <element signature="e#13513#13514#0" expanded="true" />
+            <element signature="e#13557#13558#0" expanded="true" />
+            <element signature="e#13595#13596#0" expanded="true" />
+            <element signature="e#13628#13629#0" expanded="true" />
+            <element signature="e#13681#13682#0" expanded="true" />
+            <element signature="e#13723#13724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Plot2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Plot3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="137" column="40" lean-forward="false" selection-start-line="137" selection-start-column="40" selection-end-line="137" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/CTMCGUI.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/DataModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7429">
+          <caret line="570" column="111" lean-forward="false" selection-start-line="570" selection-start-column="111" selection-end-line="570" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/CTMCAvailabilityTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaFXApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CTMC</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>RungeKutta</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

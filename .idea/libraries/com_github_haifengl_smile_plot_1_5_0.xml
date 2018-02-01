@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="com.github.haifengl:smile-plot:1.5.0" type="repository">
+    <properties maven-id="com.github.haifengl:smile-plot:1.5.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-plot/1.5.0/smile-plot-1.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-core/1.5.0/smile-core-1.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-data/1.5.0/smile-data-1.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-math/1.5.0/smile-math-1.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-graph/1.5.0/smile-graph-1.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/swinglabs/swingx/1.6.1/swingx-1.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/jhlabs/filters/2.0.235/filters-2.0.235.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/swinglabs/swing-worker/1.1/swing-worker-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-plot/1.5.0/smile-plot-1.5.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-core/1.5.0/smile-core-1.5.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-data/1.5.0/smile-data-1.5.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-math/1.5.0/smile-math-1.5.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-graph/1.5.0/smile-graph-1.5.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/swinglabs/swingx/1.6.1/swingx-1.6.1-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/swinglabs/swing-worker/1.1/swing-worker-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-plot/1.5.0/smile-plot-1.5.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-core/1.5.0/smile-core-1.5.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-data/1.5.0/smile-data-1.5.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-math/1.5.0/smile-math-1.5.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/haifengl/smile-graph/1.5.0/smile-graph-1.5.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/swinglabs/swingx/1.6.1/swingx-1.6.1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/jhlabs/filters/2.0.235/filters-2.0.235-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/swinglabs/swing-worker/1.1/swing-worker-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

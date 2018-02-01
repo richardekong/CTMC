@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="675.0" prefWidth="970.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.hwcPoolsController">
+    <children>
+        <HBox fx:id="Hbox1" prefHeight="330.0" prefWidth="970.0">
+            <children>
+                <TitledPane fx:id="ratePane" prefHeight="273.0" prefWidth="486.0" text="Rate" textAlignment="CENTER">
+                    <content>
+                        <VBox fx:id="vboxRate" prefHeight="120.0" prefWidth="315.0">
+                            <children>
+                                <HBox fx:id="hbox1a" prefHeight="30.0" prefWidth="295.0" spacing="40.0">
+                                    <children>
+                                        <Label fx:id="lambdalabel" text="λ" />
+                                        <Slider fx:id="lambdaslider" blockIncrement="5.0" majorTickUnit="100.0" max="200.0" min="0.0000" minorTickCount="1" prefWidth="220" showTickLabels="true" showTickMarks="true" />
+                                        <TextField fx:id="lambdavalue" prefHeight="25.0" prefWidth="106.0" />
+                                    </children>
+                                </HBox>
+                                <HBox fx:id="Hbox1b" prefHeight="30.0" prefWidth="295.0" spacing="40.0">
+                                    <children>
+                                        <Label fx:id="mulabel" text="µ" />
+                                        <Slider fx:id="muslider" blockIncrement="5.0" majorTickUnit="100.0" max="200.0" min="0.0000" minorTickCount="1" prefWidth="220" showTickLabels="true" showTickMarks="true" />
+                                        <TextField fx:id="muvalue" prefHeight="25.0" prefWidth="106.0" />
+                                    </children>
+                                </HBox>
+                                <HBox fx:id="Hbox1c" prefHeight="30.0" prefWidth="295.0" spacing="40.0">
+                                    <children>
+                                        <Label fx:id="gamalabel" text="γ" />
+                                        <Slider fx:id="gamaslider" blockIncrement="5.0" majorTickUnit="100.0" max="200.0" min="0.0000" minorTickCount="1" prefWidth="220" showTickLabels="true" showTickMarks="true" />
+                                        <TextField fx:id="gamavalue" prefHeight="25.0" prefWidth="106.0" />
+                                    </children>
+                                </HBox>
+                                <HBox fx:id="hbox1d" prefHeight="30.0" prefWidth="295.0" spacing="40.0">
+                                    <children>
+                                        <Label fx:id="deltalabel1" text="δ" />
+                                        <Slider fx:id="deltaslider" blockIncrement="5.0" majorTickUnit="100.0" max="200.0" min="0.0000" minorTickCount="1" prefWidth="220" showTickLabels="true" showTickMarks="true" />
+                                        <TextField fx:id="deltavalue" prefHeight="25.0" prefWidth="106.0" />
+                                    </children>
+                                </HBox>
+                                <HBox fx:id="hbox1d1" prefHeight="30.0" prefWidth="295.0" spacing="40.0">
+                                    <children>
+                                        <Label fx:id="timelabel11" text="t" />
+                                        <Slider id="timeslider" fx:id="timeslider" blockIncrement="5.0" majorTickUnit="100.0" max="200.0" min="0.0000" minorTickCount="1" prefWidth="220" showTickLabels="true" showTickMarks="true" />
+                                        <TextField id="timeValue" fx:id="timeValue" prefWidth="106.0" />
+                                    </children>
+                                </HBox>
+                            </children>
+                        </VBox>
+                    </content>
+                </TitledPane>
+                <TitledPane fx:id="finitegraph" animated="false" prefHeight="273.0" prefWidth="567.0" text="Finite Graph">
+                    <content>
+                        <ScrollPane id="fintegraphscrollPane" fx:id="finitegraphscrollPane">
+                            <content>
+                                <BorderPane fx:id="finiteGraphPane" prefHeight="210.0" prefWidth="400.0" />
+                            </content>
+                        </ScrollPane>
+                    </content>
+                </TitledPane>
+            </children>
+        </HBox>
+        <HBox fx:id="Hbox2" prefHeight="330.0" prefWidth="970.0">
+            <children>
+                <TabPane prefHeight="281.0" prefWidth="969.0" tabClosingPolicy="UNAVAILABLE">
+                    <tabs>
+                        <Tab fx:id="avalilability" text="Availability">
+                            <content>
+                                <HBox fx:id="hbox2a" prefHeight="100.0" prefWidth="200.0">
+                                    <children>
+                                        <TitledPane fx:id="AvTablePane" animated="false" prefHeight="243.0" prefWidth="497.0" text="Availability Level">
+                                            <content>
+                                                <TableView fx:id="AvTableView" prefHeight="100.0" prefWidth="497.0">
+                                                    <columns>
+                                                        <TableColumn id="tAvCol" fx:id="tAvCol" prefWidth="75.0" text="t" />
+                                                        <TableColumn id="Av" fx:id="Av" prefWidth="75.0" text="Av" />
+                                                        <TableColumn id="colP0" fx:id="colP0" prefWidth="75.0" text="P0" />
+                                                        <TableColumn id="colP1" fx:id="colP1" prefWidth="75.0" text="P1" />
+                                                        <TableColumn id="colP5" fx:id="colP5" prefWidth="75.0" text="P5" />
+                                                        <TableColumn id="colP6" fx:id="colP6" prefWidth="75.0" text="P6" />
+                                                    </columns>
+                                                </TableView>
+                                            </content>
+                                        </TitledPane>
+                                        <TitledPane id="AvPlotTitle" fx:id="AvPlotTitle" animated="false" prefHeight="277.0" prefWidth="572.0" text="Plots">
+                                            <content>
+                                                <BorderPane id="AvPlotPane" fx:id="AvPlotPane" prefHeight="207.0" prefWidth="397.0" />
+                                            </content>
+                                        </TitledPane>
+                                    </children>
+                                </HBox>
+                            </content>
+                        </Tab>
+                        <Tab fx:id="downtime" text="Downtime">
+                            <content>
+                                <HBox fx:id="hbox2b" prefHeight="100.0" prefWidth="200.0">
+                                    <children>
+                                        <TitledPane id="DtTablePane" fx:id="DtTablePane" animated="false" prefHeight="277.0" prefWidth="445.0" text="Downtime Level">
+                                 <content>
+                                    <TableView id="DtTableView" fx:id="DtTableView" prefHeight="100.0" prefWidth="497.0">
+                                       <columns>
+                                          <TableColumn id="DtTCol" fx:id="DtTCol" prefWidth="75.0" text="t" />
+                                          <TableColumn id="Dt" fx:id="Dt1" prefWidth="75.0" text="Dt" />
+                                          <TableColumn id="colP2" fx:id="colP2" prefWidth="75.0" text="P2" />
+                                          <TableColumn id="colP3" fx:id="colP3" prefWidth="75.0" text="P3" />
+                                          <TableColumn id="colP4" fx:id="colP4" prefWidth="75.0" text="P4" />
+                                          <TableColumn id="colP7" fx:id="colP7" prefWidth="75.0" text="P7" />
+                                          <TableColumn id="colP8" fx:id="colP8" prefWidth="75.0" text="P8" />
+                                          <TableColumn id="colP9" fx:id="colP9" prefWidth="75.0" text="P9" />
+                                       </columns>
+                                    </TableView>
+                                 </content>
+                                        </TitledPane>
+                                        <TitledPane id="DtPlotTitle" fx:id="DtPlotTitle" animated="false" prefHeight="277.0" prefWidth="524.0" text="Plots">
+                                 <content>
+                                    <BorderPane id="DtplotPane1" fx:id="DtplotPane1" prefHeight="252.0" prefWidth="527.0" />
+                                 </content>
+                                        </TitledPane>
+                                    </children>
+                                </HBox>
+                            </content>
+                        </Tab>
+                    </tabs>
+                </TabPane>
+            </children>
+        </HBox>
+        <HBox id="hbox4" fx:id="hbox4" prefHeight="18.0" prefWidth="966.0">
+         <children>
+            <ProgressBar id="progressBar" fx:id="progressBar" prefHeight="18.0" prefWidth="969.0" progress="0.0" />
+         </children>
+        </HBox>
+      <HBox id="hbox3" fx:id="hbox31" prefHeight="169.0" prefWidth="600.0">
+         <children>
+            <TitledPane animated="false" prefHeight="122.0" prefWidth="970.0" text="Controls">
+               <content>
+                  <HBox id="Hbox3a" fx:id="Hbox3a1" prefHeight="100.0" prefWidth="600.0">
+                     <children>
+                        <Button id="btn2d" fx:id="btn2d1" contentDisplay="TOP" mnemonicParsing="false" onAction="#plotData2D" prefHeight="76.0" prefWidth="323.0" text="2D Plot">
+                           <graphic>
+                              <ImageView id="img2d" fx:id="img2d1" fitHeight="44.0" fitWidth="123.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@2dicon2.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                        <Button id="btn3d" fx:id="btn3d1" contentDisplay="TOP" mnemonicParsing="false" onAction="#plotData3d" prefHeight="76.0" prefWidth="323.0" text="3D Plot">
+                           <graphic>
+                              <ImageView id="img3d" fx:id="img3d1" fitHeight="47.0" fitWidth="54.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@3dicon2.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                        <Button id="clearbtn" fx:id="clearbtn1" contentDisplay="TOP" mnemonicParsing="false" onAction="#clear" prefHeight="76.0" prefWidth="323.0" text="Clear">
+                           <graphic>
+                              <ImageView id="imgClear" fx:id="imgClear1" fitHeight="44.0" fitWidth="69.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@clearicon2.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </HBox>
+               </content>
+            </TitledPane>
+         </children>
+      </HBox>
+    </children>
+</VBox>
